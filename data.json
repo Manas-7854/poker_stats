@@ -1,0 +1,76 @@
+{
+  "players": [
+    {
+      "id": "p1",
+      "name": "Manas"
+    },
+    {
+      "id": "player_cb91154b-f47b-4f98-b98e-d68b34f2d5c0",
+      "name": "Raunak"
+    },
+    {
+      "id": "player_6a95b0f8-2729-476a-99c7-b37bf2679fae",
+      "name": "Bhatia"
+    },
+    {
+      "id": "player_d0eb3c2d-2f72-423b-9638-5bf118aabcb3",
+      "name": "Bangali"
+    },
+    {
+      "id": "player_5cf5c7e9-137e-4925-a911-7a3b5ecd9320",
+      "name": "Harshit"
+    }
+  ],
+  "games": [
+    {
+      "id": "game_52dca9e9-12a5-4ada-a779-52c4cdf09418",
+      "name": "Post quiz 1",
+      "date": "2026-09-06",
+      "createdAt": "2026-09-11T22:05:39.184Z",
+      "buyIn": 150,
+      "chipValue": 0.5,
+      "results": [
+        {
+          "playerId": "p1",
+          "buyIns": 1.5,
+          "finalChips": 0,
+          "invested": 225,
+          "finalValue": 0,
+          "profit": -225
+        },
+        {
+          "playerId": "player_cb91154b-f47b-4f98-b98e-d68b34f2d5c0",
+          "buyIns": 1.5,
+          "finalChips": 890,
+          "invested": 225,
+          "finalValue": 445,
+          "profit": 220
+        },
+        {
+          "playerId": "player_6a95b0f8-2729-476a-99c7-b37bf2679fae",
+          "buyIns": 1,
+          "finalChips": 835,
+          "invested": 150,
+          "finalValue": 417.5,
+          "profit": 267.5
+        },
+        {
+          "playerId": "player_d0eb3c2d-2f72-423b-9638-5bf118aabcb3",
+          "buyIns": 1,
+          "finalChips": 75,
+          "invested": 150,
+          "finalValue": 37.5,
+          "profit": -112.5
+        },
+        {
+          "playerId": "player_5cf5c7e9-137e-4925-a911-7a3b5ecd9320",
+          "buyIns": 1,
+          "finalChips": 0,
+          "invested": 150,
+          "finalValue": 0,
+          "profit": -150
+        }
+      ]
+    }
+  ]
+}
