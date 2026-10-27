@@ -19,9 +19,287 @@
     {
       "id": "player_5cf5c7e9-137e-4925-a911-7a3b5ecd9320",
       "name": "Harshit"
+    },
+    {
+      "id": "player_d4d0ae7e-4129-4f63-b1e8-925d17b87ca7",
+      "name": "Sujay Belsari"
+    },
+    {
+      "id": "player_c28019f5-279d-4878-9313-a129a6ca2109",
+      "name": "Vishesh"
+    },
+    {
+      "id": "player_9bddb740-e6af-4a8e-b39f-79e5ee056df8",
+      "name": "Goenks"
     }
   ],
   "games": [
+    {
+      "id": "game_564d6cc8-8fe0-4858-848f-e4cab1b2f42a",
+      "name": "renao poker",
+      "date": "2026-10-25",
+      "createdAt": "2026-10-25T00:36:35.226Z",
+      "buyIn": 80,
+      "chipValue": 0.5,
+      "results": [
+        {
+          "playerId": "player_9bddb740-e6af-4a8e-b39f-79e5ee056df8",
+          "buyIns": 6,
+          "finalChips": 1070,
+          "invested": 480,
+          "finalValue": 535,
+          "profit": 55
+        },
+        {
+          "playerId": "p1",
+          "buyIns": 4,
+          "finalChips": 1315,
+          "invested": 320,
+          "finalValue": 657.5,
+          "profit": 337.5
+        },
+        {
+          "playerId": "player_5cf5c7e9-137e-4925-a911-7a3b5ecd9320",
+          "buyIns": 2,
+          "finalChips": 205,
+          "invested": 160,
+          "finalValue": 102.5,
+          "profit": -57.5
+        },
+        {
+          "playerId": "player_cb91154b-f47b-4f98-b98e-d68b34f2d5c0",
+          "buyIns": 2,
+          "finalChips": 375,
+          "invested": 160,
+          "finalValue": 187.5,
+          "profit": 27.5
+        },
+        {
+          "playerId": "player_d0eb3c2d-2f72-423b-9638-5bf118aabcb3",
+          "buyIns": 3,
+          "finalChips": 0,
+          "invested": 240,
+          "finalValue": 0,
+          "profit": -240
+        },
+        {
+          "playerId": "player_6a95b0f8-2729-476a-99c7-b37bf2679fae",
+          "buyIns": 3,
+          "finalChips": 235,
+          "invested": 240,
+          "finalValue": 117.5,
+          "profit": -122.5
+        }
+      ]
+    },
+    {
+      "id": "game_6cbbb52d-8683-430c-88f4-cb58b5e87221",
+      "name": "another one",
+      "date": "2026-10-16",
+      "createdAt": "2026-10-15T21:58:46.124Z",
+      "buyIn": 80,
+      "chipValue": 0.5,
+      "results": [
+        {
+          "playerId": "player_5cf5c7e9-137e-4925-a911-7a3b5ecd9320",
+          "buyIns": 2,
+          "finalChips": 5,
+          "invested": 160,
+          "finalValue": 2.5,
+          "profit": -157.5
+        },
+        {
+          "playerId": "player_cb91154b-f47b-4f98-b98e-d68b34f2d5c0",
+          "buyIns": 2,
+          "finalChips": 645,
+          "invested": 160,
+          "finalValue": 322.5,
+          "profit": 162.5
+        },
+        {
+          "playerId": "p1",
+          "buyIns": 15,
+          "finalChips": 2600,
+          "invested": 1200,
+          "finalValue": 1300,
+          "profit": 100
+        },
+        {
+          "playerId": "player_c28019f5-279d-4878-9313-a129a6ca2109",
+          "buyIns": 2,
+          "finalChips": 290,
+          "invested": 160,
+          "finalValue": 145,
+          "profit": -15
+        },
+        {
+          "playerId": "player_6a95b0f8-2729-476a-99c7-b37bf2679fae",
+          "buyIns": 2,
+          "finalChips": 140,
+          "invested": 160,
+          "finalValue": 70,
+          "profit": -90
+        }
+      ]
+    },
+    {
+      "id": "game_8150a9d5-364b-42e2-9cc2-76e717fd0f07",
+      "name": "about damm time",
+      "date": "2026-10-10",
+      "createdAt": "2026-10-09T21:13:45.080Z",
+      "buyIn": 80,
+      "chipValue": 0.5,
+      "results": [
+        {
+          "playerId": "player_cb91154b-f47b-4f98-b98e-d68b34f2d5c0",
+          "buyIns": 3,
+          "finalChips": 380,
+          "invested": 240,
+          "finalValue": 190,
+          "profit": -50
+        },
+        {
+          "playerId": "p1",
+          "buyIns": 2,
+          "finalChips": 805,
+          "invested": 160,
+          "finalValue": 402.5,
+          "profit": 242.5
+        },
+        {
+          "playerId": "player_5cf5c7e9-137e-4925-a911-7a3b5ecd9320",
+          "buyIns": 3.5,
+          "finalChips": 0,
+          "invested": 280,
+          "finalValue": 0,
+          "profit": -280
+        },
+        {
+          "playerId": "player_6a95b0f8-2729-476a-99c7-b37bf2679fae",
+          "buyIns": 2.5,
+          "finalChips": 0,
+          "invested": 200,
+          "finalValue": 0,
+          "profit": -200
+        },
+        {
+          "playerId": "player_c28019f5-279d-4878-9313-a129a6ca2109",
+          "buyIns": 2,
+          "finalChips": 805,
+          "invested": 160,
+          "finalValue": 402.5,
+          "profit": 242.5
+        },
+        {
+          "playerId": "player_d0eb3c2d-2f72-423b-9638-5bf118aabcb3",
+          "buyIns": 1,
+          "finalChips": 250,
+          "invested": 80,
+          "finalValue": 125,
+          "profit": 45
+        }
+      ]
+    },
+    {
+      "id": "game_1aea2574-131d-4b81-bb00-6b91117e87a6",
+      "name": "Game",
+      "date": "2026-10-07",
+      "createdAt": "2026-10-06T21:17:28.248Z",
+      "buyIn": 150,
+      "chipValue": 0.5,
+      "results": [
+        {
+          "playerId": "player_cb91154b-f47b-4f98-b98e-d68b34f2d5c0",
+          "buyIns": 1,
+          "finalChips": 80,
+          "invested": 150,
+          "finalValue": 40,
+          "profit": -110
+        },
+        {
+          "playerId": "p1",
+          "buyIns": 1,
+          "finalChips": 170,
+          "invested": 150,
+          "finalValue": 85,
+          "profit": -65
+        },
+        {
+          "playerId": "player_d0eb3c2d-2f72-423b-9638-5bf118aabcb3",
+          "buyIns": 1,
+          "finalChips": 0,
+          "invested": 150,
+          "finalValue": 0,
+          "profit": -150
+        },
+        {
+          "playerId": "player_5cf5c7e9-137e-4925-a911-7a3b5ecd9320",
+          "buyIns": 1,
+          "finalChips": 950,
+          "invested": 150,
+          "finalValue": 475,
+          "profit": 325
+        }
+      ]
+    },
+    {
+      "id": "game_aed7c1a7-9a97-41ce-81b3-395ea7cd7abd",
+      "name": "Game",
+      "date": "2026-09-26",
+      "createdAt": "2026-09-25T20:31:33.854Z",
+      "buyIn": 200,
+      "chipValue": 0.5,
+      "results": [
+        {
+          "playerId": "player_5cf5c7e9-137e-4925-a911-7a3b5ecd9320",
+          "buyIns": 1.5,
+          "finalChips": 175,
+          "invested": 300,
+          "finalValue": 87.5,
+          "profit": -212.5
+        },
+        {
+          "playerId": "player_6a95b0f8-2729-476a-99c7-b37bf2679fae",
+          "buyIns": 1,
+          "finalChips": 285,
+          "invested": 200,
+          "finalValue": 142.5,
+          "profit": -57.5
+        },
+        {
+          "playerId": "player_d4d0ae7e-4129-4f63-b1e8-925d17b87ca7",
+          "buyIns": 1,
+          "finalChips": 550,
+          "invested": 200,
+          "finalValue": 275,
+          "profit": 75
+        },
+        {
+          "playerId": "player_c28019f5-279d-4878-9313-a129a6ca2109",
+          "buyIns": 1,
+          "finalChips": 1240,
+          "invested": 200,
+          "finalValue": 620,
+          "profit": 420
+        },
+        {
+          "playerId": "p1",
+          "buyIns": 2,
+          "finalChips": 0,
+          "invested": 400,
+          "finalValue": 0,
+          "profit": -400
+        },
+        {
+          "playerId": "player_cb91154b-f47b-4f98-b98e-d68b34f2d5c0",
+          "buyIns": 1,
+          "finalChips": 750,
+          "invested": 200,
+          "finalValue": 375,
+          "profit": 175
+        }
+      ]
+    },
     {
       "id": "game_52dca9e9-12a5-4ada-a779-52c4cdf09418",
       "name": "Post quiz 1",
